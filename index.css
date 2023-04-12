@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+* {
+   margin: 0px;
+   padding: 0px;
+}
+
+#teste {
+   background-color: aqua;
+   
+   margin: auto;
+}
+
+#output {
+   text-align: center;
+   margin-left: -105px;
+}
+
+#add {
+   display: inline;
+    
+}
+
+#user {
+  
+   margin: auto;
+}
+
+button {
+   display: block;
+   margin: auto;
+   
+}
+
+
+section {
+   background-color: rgba(0, 128, 0, 0.179);
+
+}
