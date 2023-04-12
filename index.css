@@ -6,12 +6,13 @@
 }
 
 #check {
-   margin-left: 105px;
+   margin-left: 180px;
 }
 
 #content {
    text-align: center;
-   margin-bottom: 10px;
+   margin-top: 40px;
+   margin-bottom: 40px;
    
 }
 
@@ -26,14 +27,13 @@
 
 #content input {
    height: 25px;
+   
 }
 
 #output {
    margin-left: -180px;
    margin-right: -90px;
    min-width: 50px;
-
-  
 }
 
 input[type=checkbox] {
@@ -58,9 +58,13 @@ button {
 
 section {
    margin-top: 100px;
-   margin-right: 50px;
-   margin-left: 50px;
-   padding: 100px;
+   margin-right: 10px;
+   margin-left: 10px;
+   
+   padding-top: 100px;
+   padding-bottom: 100px;
+   padding-left: 50px;
+   padding-right: 50px;
    background-color: rgb(245, 157, 85);
    border-radius: 15px;
    font-size: 19px;
