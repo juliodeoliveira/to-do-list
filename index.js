@@ -1,4 +1,7 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 // PROBLEMA: Na hora de adicionar, os outros itens são desmarcados. SOLUÇÃO: Adicionar os itens que foram marcados em uma lista e assim, verificar, se foi marcado antes, recebe valor checked.
+
 
 var outter = document.querySelector("div#output")
 var userText = document.querySelector("input#user")
